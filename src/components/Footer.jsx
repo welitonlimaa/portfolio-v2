@@ -53,7 +53,7 @@ function Footer({
         </div>
         <div className="main-footer__lower">
           &copy; Copyright 2025. Made by
-          <a rel="noreferrer" target="_blank" href>Weliton Lima</a>
+          <a href="https://github.com/welitonlimaa" rel="noreferrer" target="_blank">Weliton Lima</a>
         </div>
       </div>
     </footer>
