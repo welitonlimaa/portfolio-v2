@@ -1,0 +1,18 @@
+[
+    {
+        "href": "#banner",
+        "text": "Home"
+    },
+    {
+        "href": "#about",
+        "text": "Sobre mim"
+    },
+    {
+        "href": "#projects",
+        "text": "Projetos"
+    },
+    {
+        "href": "#contact",
+        "text": "Contato"
+    }
+]
