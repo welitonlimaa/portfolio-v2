@@ -16,6 +16,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 10rem;
+    margin-top: 15rem;
 }
 
 .about__content-title {
@@ -63,6 +64,10 @@
         min-height: 100vh;
     }
 
+    .about__content {
+        margin-top: unset;
+    }
+
     .about .main-container {
         padding-top: 5rem;
     }
@@ -73,6 +78,10 @@
 }
 
 @media only screen and (max-width: 56.25em) {
+    .about__content {
+        margin-top: unset;
+    }
+    
     .about .main-container {
         padding-top: 5rem;
     }
