@@ -179,6 +179,8 @@
     margin-top: 2rem;
     font-size: 1.5rem;
     text-transform: uppercase;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
     letter-spacing: 3px;
     line-height: 1;
     text-align: left;
