@@ -14,7 +14,7 @@ function Banner({
         </article>
         <figure className="figure">
           <span
-            style={{ backgroundImage: `url(${photo.url})` }}
+            style={{ backgroundImage: `url(https://avatars.githubusercontent.com/u/108986668?v=4)` }}
             className="handsome"
             aria-label={ name }
           />
