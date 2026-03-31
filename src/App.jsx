@@ -40,7 +40,7 @@ function App() {
   if (isLoading || !data) {
     return <Loading />;
   }
-  console.log(data);
+
   return (
     <>
       <Header />
